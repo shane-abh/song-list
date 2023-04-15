@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/song-list/static/css/main.f778c8c6.css",
-    "main.js": "/song-list/static/js/main.ef489cc7.js",
+    "main.js": "/song-list/static/js/main.8fec1191.js",
     "static/js/787.64370509.chunk.js": "/song-list/static/js/787.64370509.chunk.js",
     "static/media/logo.svg": "/song-list/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/song-list/index.html",
     "main.f778c8c6.css.map": "/song-list/static/css/main.f778c8c6.css.map",
-    "main.ef489cc7.js.map": "/song-list/static/js/main.ef489cc7.js.map",
+    "main.8fec1191.js.map": "/song-list/static/js/main.8fec1191.js.map",
     "787.64370509.chunk.js.map": "/song-list/static/js/787.64370509.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f778c8c6.css",
-    "static/js/main.ef489cc7.js"
+    "static/js/main.8fec1191.js"
   ]
 }
