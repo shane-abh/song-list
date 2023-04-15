@@ -26,7 +26,7 @@ const App = () => {
       <div>
        
         <Routes>
-          <Route path="/" element={<SongList/>} />
+          <Route path="song-list/" element={<SongList/>} />
           {/* Major Chord routes */}
           <Route path="/A" element={<SearchBox scale="A" songdata={chordSongs.A}/>} />
           <Route path="/B" element={<SearchBox scale="B" songdata={chordSongs.B}/>} />
