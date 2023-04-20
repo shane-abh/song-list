@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/song-list/static/css/main.99129983.css",
-    "main.js": "/song-list/static/js/main.ea4ea9ae.js",
+    "main.css": "/song-list/static/css/main.a6354bbc.css",
+    "main.js": "/song-list/static/js/main.39e43037.js",
     "static/js/787.64370509.chunk.js": "/song-list/static/js/787.64370509.chunk.js",
-    "static/media/logo.svg": "/song-list/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/song-list/index.html",
-    "main.99129983.css.map": "/song-list/static/css/main.99129983.css.map",
-    "main.ea4ea9ae.js.map": "/song-list/static/js/main.ea4ea9ae.js.map",
+    "main.a6354bbc.css.map": "/song-list/static/css/main.a6354bbc.css.map",
+    "main.39e43037.js.map": "/song-list/static/js/main.39e43037.js.map",
     "787.64370509.chunk.js.map": "/song-list/static/js/787.64370509.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99129983.css",
-    "static/js/main.ea4ea9ae.js"
+    "static/css/main.a6354bbc.css",
+    "static/js/main.39e43037.js"
   ]
 }
